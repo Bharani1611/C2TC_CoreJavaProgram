@@ -20,7 +20,7 @@ public class TypesCasting {
         int emojiCode = emoji;
         System.out.println("Unicode of ☺: " + emojiCode);
 
-        double price = 1999.90;
+        double price = 1999.99;
         int roundedPrice = (int) price;
         System.out.println("Rounded Price: " + roundedPrice);
 
