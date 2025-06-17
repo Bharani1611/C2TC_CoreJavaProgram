@@ -1,31 +1,42 @@
 package day5;
 
 public class Base {
-	   int varDefault = 10;
-	   public int varPublic = 20;
-	   private int varPrivate = 30;
-	   protected int varProtected = 40;
+    int varDefault = 10;               // Default access
+    public int varPublic = 20;         // Public access
+    private int varPrivate = 30;       // Private access
+    protected int varProtected = 40;   // Protected access
 
-	   public Base() {
-	   }
+    // Default Constructor
+    public Base() {
+        System.out.println("🚀 Base Constructor Executed");
+    }
 
-	   void methodDefault() {
-	      System.out.println("Default access Base class");
-	      System.out.println("Default Variable : " + this.varDefault);
-	   }
+    // Default method
+    void methodDefault() {
+        System.out.println("👉 Default access method in Base class");
+        System.out.println("Default Variable: " + varDefault);
+    }
 
-	   public void methodPublic() {
-	      System.out.println("Public access Base class");
-	      System.out.println("Public Variable : " + this.varPublic);
-	   }
+    // Public method
+    public void methodPublic() {
+        System.out.println("🌐 Public access method in Base class");
+        System.out.println("Public Variable: " + varPublic);
+    }
 
-	   private void methodPrivate() {
-	      System.out.println("Private access Base class");
-	      System.out.println("Private Variable : " + this.varPrivate);
-	   }
+    // Private method
+    private void methodPrivate() {
+        System.out.println("🔒 Private access method in Base class");
+        System.out.println("Private Variable: " + varPrivate);
+    }
 
-	   protected void methodProtected() {
-	      System.out.println("Protected access Base class");
-	      System.out.println("Protected Variable : " + this.varProtected);
-	   }
-	}
+    // Protected method
+    protected void methodProtected() {
+        System.out.println("🛡️ Protected access method in Base class");
+        System.out.println("Protected Variable: " + varProtected);
+    }
+
+    // Optional method to demo private method from inside class
+    public void callPrivate() {
+        methodPrivate(); // can only be called from within the class
+    }
+}
