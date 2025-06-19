@@ -1,0 +1,1 @@
+package com.tnif.daysix.multilevelinheritance.vehical;

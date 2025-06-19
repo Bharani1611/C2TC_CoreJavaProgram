@@ -1,4 +1,4 @@
-package com.tnif.dayFive;
+package com.tnif.dayFive.firstPackage;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.tnif.dayFive;
+package com.tnif.dayFive.thirdPackage;
 
 public class PrivateConstructor {
 	public static void main(String s[]) {

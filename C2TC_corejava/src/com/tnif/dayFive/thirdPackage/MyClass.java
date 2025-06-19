@@ -1,4 +1,4 @@
-package com.tnif.dayFive;
+package com.tnif.dayFive.thirdPackage;
 
 public class MyClass {
 	private static MyClass obj=new MyClass();

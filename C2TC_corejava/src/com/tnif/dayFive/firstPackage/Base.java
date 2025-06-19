@@ -1,4 +1,4 @@
-package com.tnif.dayFive;
+package com.tnif.dayFive.firstPackage;
 
 public class Base {
     int varDefault = 10;               // Default access

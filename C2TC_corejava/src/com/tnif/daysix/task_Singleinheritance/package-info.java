@@ -1,0 +1,1 @@
+package com.tnif.daysix.task_Singleinheritance;
