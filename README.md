@@ -161,7 +161,7 @@ Vehicle.java, Car.java, Maruti.java, Maruti800.java
  ┃ ┃ ┃ ┣ 📂 staticvariable
  ┃ ┃ ┃ ┃ ┣ 📜 Employee.java
  ┃ ┃ ┃ ┃ ┣ 📜 EmployeeMain.java
- ┃  ┃ ┣ 📂 multilevelinheritance
+ ┃ ┃ ┃ ┣ 📂 multilevelinheritance
  ┃ ┃ ┣ 📂 texteditor
  ┃ ┃ ┃ ┣ 📜 Notepad.java
  ┃ ┃ ┃ ┣ 📜 TextEditor.java
@@ -197,7 +197,7 @@ Vehicle.java, Car.java, Maruti.java, Maruti800.java
  ┃ ┃ ┃ ┣ 📜 Student.java
  ┃ ┃ ┃ ┗ 📜 StudentMain.java
  ┃ ┣ 📂 dayEight
-┃ ┃ ┣ 📂 Abstract
+ ┃ ┃ ┣ 📂 Abstract
  ┃ ┃ ┃ ┣ 📜 PlacementTraining.java
  ┃ ┃ ┃ ┣ 📜 TataStrive.java
  ┃ ┃ ┃ ┣ 📜 TnsCg.java
@@ -235,12 +235,12 @@ Vehicle.java, Car.java, Maruti.java, Maruti800.java
  ┃ ┃ ┃ ┃ ┣ 📜 MyInterface.java
  ┃ ┃ ┃ ┃ ┣ 📜 NestedInterfaceClass.java
  ┃ ┃ ┃ ┃ ┗ 📜 NestedInterfaceMain.java
-┃ ┃ ┣ 📂 Task_interface
+ ┃ ┃ ┣ 📂 Task_interface
  ┃ ┃ ┃ ┃ ┣ 📜 Clothes.java
  ┃ ┃ ┃ ┃ ┣ 📜 Cosmetics.java
  ┃ ┃ ┃ ┃ ┗ 📜 Grocery.java
-┃ ┃ ┃ ┃ ┗ 📜 Purchase.java
-┃ ┃ ┃ ┃ ┗ 📜 ShopingMall.java
+ ┃ ┃ ┃ ┃ ┗ 📜 Purchase.java
+ ┃ ┃ ┃ ┃ ┗ 📜 ShopingMall.java
  ┃ ┣ 📜 package-info.java
  ┃ ┗ 📜 C2TC.txt
 ````
