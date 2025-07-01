@@ -1,4 +1,4 @@
-package com.tnif.DayTen.Polymorphism;
+package com.tnif.DayTen.Task.Polymorphism;
 
 public class Executor {
     public static void main(String[] args) {
