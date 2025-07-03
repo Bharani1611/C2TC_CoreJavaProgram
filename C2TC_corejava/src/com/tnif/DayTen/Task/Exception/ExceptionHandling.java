@@ -6,17 +6,17 @@ public class ExceptionHandling{
 		try 
 		{
 			int a[]= {3,1,2,8,2,2,2,4,3,0,0,6};
-			System.out.println(a[5]);
+			System.out.println(a[12]);
 			
 		}
 		
-		catch(ArrayIndexOutOfBoundsException ae) 
+		catch(ArrayIndexOutOfBoundsException Leo) 
 		{
 			
-			System.out.println(" "+ae.getMessage());
+			System.out.println(" "+Leo.getMessage());
 		}
 		
-		System.out.println("next line");
+		System.out.println("Boom");
 		
 	}
 	
