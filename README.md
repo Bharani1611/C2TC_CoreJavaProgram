@@ -315,7 +315,7 @@ Vehicle.java, Car.java, Maruti.java, Maruti800.java
 
 Coming up next:
 
-- ⚠️ Exception Handling (try-catch-finally, throws, custom exceptions)
+
 - 📂 File Input/Output (I/O streams, file handling)
 - 🔄 Collections Framework (List, Set, Map)
 - 🧪 Unit Testing & Debugging (optional)
@@ -339,4 +339,3 @@ Coming up next:
 
 
 
-![Uploading image.png…]()
