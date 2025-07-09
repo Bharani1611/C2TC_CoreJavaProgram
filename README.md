@@ -129,6 +129,78 @@ Vehicle.java, Car.java, Maruti.java, Maruti800.java
 		○ Compile-time vs runtime polymorphism
 		○ Exception safety in array handling
 
+  ### 🗓️ Day Eleven – Exception Handling Basics
+- ✅ Learned `try-catch-finally` blocks for safe error handling.
+- ✅ Caught multiple exceptions using `multi-catch` structure.
+- ✅ Explored `nested try-catch` for layered exception management.
+- ✅ Observed how exceptions are propagated.
+- ✅ Used `finally` for mandatory code execution (e.g., file closing).
+---
+### 🗓️ Day Twelve – Custom & Checked Exceptions
+- ✅ Created user-defined exceptions extending `Exception`.
+- ✅ Differentiated between **checked** and **unchecked** exceptions.
+- ✅ Used `throw` and `throws` for manual error handling.
+- ✅ Built student validation system using custom exceptions.
+- ✅ Practiced robust input validation with try-catch blocks.
+---
+### 🗓️ Day Thirteen – Multi-threading with Runnable
+- ✅ Implemented threads using both `Thread` and `Runnable`.
+- ✅ Understood thread lifecycle: New → Runnable → Running → Terminated.
+- ✅ Used `start()` and `run()` to manage parallel tasks.
+- ✅ Practiced creating and running child threads.
+- ✅ Logged thread states and behavior during execution.
+---
+### 🗓️ Day Fourteen – Thread Communication & Synchronization
+- ✅ Built Producer-Consumer model using `wait()` and `notify()`.
+- ✅ Learned synchronization to avoid race conditions.
+- ✅ Developed bank system simulating account access with threads.
+- ✅ Handled errors with custom exceptions like `InsufficientBalanceException`.
+- ✅ Practiced thread-safe operations with shared objects.
+---
+### 🗓️ Day Fifteen – Deep Dive into Synchronization
+- ✅ Simulated Deadlocks and learned how to avoid them.
+- ✅ Used `synchronized` keyword with methods and blocks.
+- ✅ Explored thread-safe object operations.
+- ✅ Compared multithreaded vs synchronized performance.
+- ✅ Ensured program stability during concurrency.
+---
+### 🗓️ Day Sixteen – Collection Framework Part 1
+- ✅ Worked with `ArrayList`, `LinkedList`, `Vector`.
+- ✅ Understood internal structures and performance differences.
+- ✅ Implemented real-time scenarios like Task Scheduling, Undo-Redo.
+- ✅ Simulated thread-safe behavior with `Vector`.
+- ✅ Performed common operations: `add`, `remove`, `set`, `get`.
+---
+### 🗓️ Day Seventeen – Set Collection Interface
+- ✅ Explored `HashSet` and `LinkedHashSet`.
+- ✅ Stored only unique elements.
+- ✅ Compared Set vs List behaviors.
+- ✅ Used `contains()` to check presence.
+- ✅ Practiced storing user-defined objects in Set.
+---
+### 🗓️ Day Eighteen – Maps & Advanced Collections
+- ✅ Mastered `HashMap`, `LinkedHashMap`, `TreeMap`, `Hashtable`.
+- ✅ Stored data in key-value pairs.
+- ✅ Compared order-preserving vs sorted vs thread-safe maps.
+- ✅ Applied `put()`, `get()`, `remove()`, `containsKey()` operations.
+- ✅ Practiced real-time mapping like ID → Name, Product → Price.
+---
+### 🗓️ Day Nineteen – Lambda Expressions & Functional Interfaces
+- ✅ Declared and used `@FunctionalInterface` with custom logic.
+- ✅ Replaced anonymous classes with lambda expressions.
+- ✅ Practiced clean coding using `(a, b) -> a + b` format.
+- ✅ Simplified iteration and filtering logic.
+- ✅ Combined lambdas with Collections for compact code.
+---
+### 🗓️ Day Twenty – Stream API
+- ✅ Used `Stream` pipeline operations: `map`, `filter`, `reduce`.
+- ✅ Chained functions to transform data effortlessly.
+- ✅ Applied functional programming in Java.
+- ✅ Built Employee data processing examples with streams.
+- ✅ Practiced one-liners that replaced long loops.
+
+---
+
 ## 📦 Packages and Structure
 
 <details>
